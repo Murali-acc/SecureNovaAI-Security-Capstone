@@ -1,0 +1,9 @@
+{
+    "timestamp": "2026-11-10T23:49:38.968027+05:30",
+    "agent_identity": "SecureNova_AI_Agent",
+    "algorithm": "Ed25519",
+    "original_message_verified": true,
+    "tampered_message_verified": false,
+    "tampered_message_rejected": true,
+    "result": "PASS"
+}

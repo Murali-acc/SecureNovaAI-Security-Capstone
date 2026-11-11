@@ -1,0 +1,6 @@
+define flow check project4 input
+  $allowed = execute CheckProject4InputAction(text=$user_message)
+
+  if not $allowed
+    bot refuse to respond
+    stop
