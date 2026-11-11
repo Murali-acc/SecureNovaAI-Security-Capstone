@@ -1,0 +1,17 @@
+[
+    {
+        "priority": 1,
+        "recommendation": "Implement trusted instruction boundaries and prompt-injection defenses.",
+        "details": "Treat retrieved documents and external content as untrusted data. Never allow instructions inside retrieved content to override the system prompt or expose credentials."
+    },
+    {
+        "priority": 2,
+        "recommendation": "Implement cryptographic agent authentication and authorization.",
+        "details": "Validate the identity and authenticity of every inter-agent message. Use signed messages, scoped permissions, and least-privilege access. Do not trust sender identities supplied as ordinary text."
+    },
+    {
+        "priority": 3,
+        "recommendation": "Secure tool execution and monitor sensitive operations.",
+        "details": "Require explicit authorization for privileged MCP tool calls. Apply tool allowlists, input validation, approval checks, audit logging, and monitoring for suspicious actions."
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "finding": "Indirect Prompt Injection",
+        "atlas_id": "AML.T0051.001",
+        "technique": "LLM Prompt Injection: Indirect"
+    },
+    {
+        "finding": "Agent Identity Spoofing",
+        "atlas_id": "AML.T0073",
+        "technique": "Impersonation"
+    },
+    {
+        "finding": "System Prompt Extraction",
+        "atlas_id": "AML.T0056",
+        "technique": "Extract LLM System Prompt"
+    },
+    {
+        "finding": "RAG Poisoning",
+        "atlas_id": "AML.T0070",
+        "technique": "RAG Poisoning"
+    },
+    {
+        "finding": "MCP Tool Abuse",
+        "atlas_id": "AML.T0053",
+        "technique": "AI Agent Tool Invocation"
+    }
+]

@@ -1,0 +1,6 @@
+Attack Category,Total Attempts,Successful Attacks,Failed Attacks,Success Rate (%)
+Indirect Prompt Injection,3,3,0,100.0
+Agent Identity Spoofing,1,1,0,100.0
+System Prompt Extraction,5,5,0,100.0
+Prompt-based Privilege Escalation,1,1,0,100.0
+RAG Poisoning and MCP Abuse,1,1,0,100.0

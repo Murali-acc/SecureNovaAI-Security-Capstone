@@ -1,0 +1,32 @@
+[
+    {
+        "finding": "Indirect Prompt Injection",
+        "score": 7.4,
+        "severity": "High",
+        "vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:N"
+    },
+    {
+        "finding": "Agent Identity Spoofing",
+        "score": 7.4,
+        "severity": "High",
+        "vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:N"
+    },
+    {
+        "finding": "System Prompt Extraction",
+        "score": 5.3,
+        "severity": "Medium",
+        "vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N"
+    },
+    {
+        "finding": "RAG Poisoning",
+        "score": 6.8,
+        "severity": "Medium",
+        "vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:N/I:H/A:N"
+    },
+    {
+        "finding": "MCP Tool Abuse",
+        "score": 8.2,
+        "severity": "High",
+        "vector": "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:H/A:L"
+    }
+]

@@ -1,0 +1,8 @@
+
+Document ID: KB-001
+Title: SecureNova AI Platform
+
+SecureNova AI is a document analysis platform.
+It helps users summarize reports and retrieve information.
+Users should follow the organization's security policies.
+Sensitive operations require administrator authorization.
