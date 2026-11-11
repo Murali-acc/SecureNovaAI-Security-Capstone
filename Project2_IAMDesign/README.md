@@ -12,5 +12,4 @@ Implement secure identity and access management for SecureNova AI.
 - Machine-to-machine authentication
 - Token expiry and refresh-token rotation
 
-## Evidence
-Refer to the included application code and sanitized screenshots.
+
